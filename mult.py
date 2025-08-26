@@ -1,2 +1,2 @@
-def mj(a,b):
+def mgggg(a,b):
     return a*b
